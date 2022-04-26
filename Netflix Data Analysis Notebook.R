@@ -324,18 +324,3 @@ res$p.value
 res$estimate
 
 # Thank You
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
